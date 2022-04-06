@@ -1,0 +1,123 @@
+/* Chat Header Style start*/
+.chat-header {
+  height: 13.5%;
+  border-bottom: 3px solid rgb(243 133 21 / 72%);
+  width: 100%;
+}
+
+.chat-header-dp {
+  display: flex;
+  align-items: center;
+  float: left;
+  height: 100%;
+}
+
+.chat-header-user-name {
+  font-size: 20px;
+  font-weight: bold;
+  justify-content: center;
+  float: left;
+}
+
+.chat-header-icons-right {
+  float: right;
+  display: flex;
+  align-items: center;
+  height: 100%;
+  padding-right: 5px;
+}
+
+.icon-video-camera:before {
+  content: "\f03d";
+}
+
+/* Chat Header Style End*/
+
+/* Chat Container Style start*/
+
+.messages-ls-container {
+  height: 75%;
+  overflow-y: scroll;
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+}
+
+.message-row {
+  width: 100%;
+  /* margin-top: 5px; */
+  display: inline-block;
+  height: fit-content;
+}
+
+.message {
+  border: 1px solid #ffdada;
+  border-radius: 10px;
+  width: fit-content;
+  font-size: 15px;
+  margin: 0px 15px 0px 15px;
+  padding: 5px;
+  box-shadow: 2px 2px #f3e3d6;
+  color: #a75b02;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+}
+
+.my-friend-msg {
+  background-color: rgb(255 216 168 / 64%);
+  float: left;
+  margin-right: 50%;
+}
+
+.my-msg {
+  background-color: #ede9e300;
+  float: right;
+  margin-left: 50%;
+}
+
+.msg-time {
+  font-size: 12px;
+  color: #868888;
+  float: right;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  min-width: 54px;
+}
+
+.msg-txt-content {
+  float: left;
+  padding-right: 10px;
+}
+
+/* Chat Container Style End*/
+
+/* Message Input Style start*/
+
+.msg-input-div {
+  height: 11.5%;
+  width: 100%;
+  background-color: rgb(243 133 21 / 72%);
+  display: flex;
+  align-items: center;
+  padding: 0px 5px 0px 14px;
+}
+
+.msg-input-text {
+  width: 97%;
+  height: 60%;
+  margin: auto;
+  padding: 0px;
+  color: #757473;
+  font-size: 15px;
+  border-radius: 40px;
+  padding: 0px 15px;
+}
+
+.send-icon {
+  color: white;
+  font-size: 21px;
+}
+
+/* Message Input Style End*/

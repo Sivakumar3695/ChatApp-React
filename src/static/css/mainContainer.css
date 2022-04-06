@@ -1,0 +1,17 @@
+@import url(./textInput.css);
+
+.default-chat-holder {
+  color: #ff7e2fde;
+  margin: auto;
+  font-weight: 500;
+  font-size: 20px;
+  border-top: 3px solid;
+  border-bottom: 3px solid;
+  padding: 20px;
+}
+
+.chat-view-holder {
+  padding: 0px;
+  height: 100%;
+  /* display: flex; */
+}

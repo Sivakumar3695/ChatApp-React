@@ -1,0 +1,32 @@
+{
+    "messages" : [
+        {"content" : "Hey, Hi", "sentUserID": "1", "sentTime": "10:15 am", "timeline": "November 20, 2021"},
+        {"content" : "Hi", "sentUserID": "2", "sentTime": "11:00 am", "timeline": "November 21, 2021"},
+        {"content" : "How r u?", "sentUserID": "1", "sentTime": "7:20 am", "timeline": "November 23, 2021"},
+        {"content" : "Fine", "sentUserID": "2", "sentTime": "9:15 pm", "timeline": "December 7, 2021"},
+        {"content" : "How about u?", "sentUserID": "2", "sentTime": "10:21 am", "timeline": "December 15, 2021"},
+        {"content" : "Great!", "sentUserID": "1", "sentTime": "8:00 am", "timeline": "December 21, 2021"},
+        {"content" : "What doing?", "sentUserID": "1", "sentTime": "6:15 am", "timeline": "January 03, 2022"},
+        {"content" : "Blah Blah", "sentUserID": "2", "sentTime": "4:21 pm", "timeline": "January 03, 2022"},
+        {"content" : "Nothing much...", "sentUserID": "2", "sentTime": "4:05 am", "timeline": "January 10, 2022"},
+        {"content" : "Want some coffee?", "sentUserID": "2", "sentTime": "7:33 pm", "timeline": "February 1, 2022"},
+        {"content" : "No...I had 12 already", "sentUserID": "1", "sentTime": "7:33 pm", "timeline": "February 10, 2022"},
+        {"content" : "OOpppssss", "sentUserID": "2", "sentTime": "6:25 pm", "timeline": "February 11, 2022"},
+        {"content" : "Thats a lot of coffee...", "sentUserID": "2", "sentTime": "6:30 pm", "timeline": "February 11, 2022"},
+        {"content" : "Had a long day at Ofc....Was working for our latest release...Still we are in the early stage of product release but we hope to make it past this month", "sentUserID": "1", "sentTime": "9:11 pm", "timeline": "March 15, 2022"},
+        {"content" : "Sounds cool..", "sentUserID": "2", "sentTime": "10:03 pm", "timeline": "Wednesday"},
+        {"content" : "Do u use React?", "sentUserID": "2", "sentTime": "11:17 pm", "timeline": "Thurday"},
+        {"content" : "Yes...", "sentUserID": "1", "sentTime": "11:04 pm", "timeline": "Friday"},
+        {"content" : "It is indeed a wonderful JS library", "sentUserID": "1", "sentTime": "12:30 am", "timeline": "Friday"},
+        {"content" : "Well...then I can make use of ur expertise and grasp as much as I can", "sentUserID": "2", "sentTime": "1:22 pm", "timeline": "Saturday"},
+        {"content" : "Cool...I started our code base along learning in parallel", "sentUserID": "1", "sentTime": "2:45 pm", "timeline": "Saturday"},
+        {"content" : "So i can teach u the concepts that I came across", "sentUserID": "1", "sentTime": "5:47 pm", "timeline": "Saturday"},
+        {"content" : "but do take it as a starter and read a lot", "sentUserID": "1", "sentTime": "7:49 pm", "timeline": "Yesterday"},
+        {"content" : "it will help u learn more", "sentUserID": "1", "sentTime": "8:30 pm", "timeline": "Yesterday"},
+        {"content" : "nd keep up with the community", "sentUserID": "1", "sentTime": "9:32 am", "timeline": "Today"},
+        {"content" : "I will take it as a great advice", "sentUserID": "2", "sentTime": "9:34 am", "timeline": "Today"},
+        {"content" : "I look forward to our session soon", "sentUserID": "2", "sentTime": "9:40 am", "timeline": "Today"},
+        {"content" : "Well, I am into my presentation...", "sentUserID": "1", "sentTime": "9:43 am", "timeline": "Today"},
+        {"content" : "Cool...", "sentUserID": "2", "sentTime": "9:43 am", "timeline": "Today"}
+    ]
+}
